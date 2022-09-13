@@ -1,0 +1,6 @@
+botocore
+numpy==1.20.0
+json
+requests
+boto3
+landtransportsg
